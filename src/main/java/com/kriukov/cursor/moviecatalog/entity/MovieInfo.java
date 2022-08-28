@@ -9,7 +9,7 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 public class MovieInfo {
 
-    private String movieId;
+    private int movieId;
 
     private String name;
 }
